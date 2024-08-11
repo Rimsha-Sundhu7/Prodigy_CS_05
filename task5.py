@@ -51,4 +51,4 @@ if __name__ == "__main__":
     # Replace 'eth0' with your actual network interface name
     sniff_packets('eth0')
 
-    # Ensure you use this tool ethically and only on networks you own or have explicit permission to analyze.
+  
